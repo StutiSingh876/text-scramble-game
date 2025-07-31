@@ -24,4 +24,7 @@ The algorithm:
 3. Outputs the scrambled sentence.
 
 ### Example
+This is a word scramble game
+Tihs is a wrod srbmalce gaem
+
 
